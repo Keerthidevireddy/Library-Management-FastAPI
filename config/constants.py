@@ -1,0 +1,2 @@
+ROLES = ["USER", "AUTHOR", "ADMIN", "REVIEWER"]
+
